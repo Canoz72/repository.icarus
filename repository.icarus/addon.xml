@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.icarus" name="Icarus" version="0.0.1" provider-name="Canoz">
+	<extension point="xbmc.addon.repository" name="Icarus">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/Canoz72/repository.icarus/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Canoz72/repository.icarus/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Canoz72/repository.icarus/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Space and Beyond</summary>
+		<description lang="en">Everything Space</description>
+		<genre>documentary,news,space,tech,australian,canadian,uk,usa</genre>
+	</extension>
+</addon>
